@@ -1,0 +1,53 @@
+ body {
+    background-image:url("pic2.jpg");
+	color:white;
+	text-align:left;
+	font-family:verdana;
+}
+  h1 {
+	font-size:80px;
+	color:rgb(255,92,0);
+	font-family:futura;
+}
+  h2 {
+	font-size:40px;
+	color:rgb(156,232,255);
+	font-family:futura;
+}
+  h3 {
+	font-size:25px;
+	color:rgb(189,255,185);
+	font-family:futura;
+}
+  h4 {
+	font-size:20px;
+	color:rgb(255,255,152);
+	font-family:futura
+}
+  a:link {
+	color: rgb(255,230,255);
+	background-color: transparent;
+	text-decoration: none;
+}
+  a:visited {
+	color: rgb(210,210,210);
+	background-color: transparent;
+	text-decoration: none;
+}
+  a:hover {
+	color: rgb(255,255,0);
+	background-color: transparent;
+	text-decoration: underline;
+}
+  a:active {
+	color: rgb(255,0,106);
+	background-color: transparent;
+	text-decoration: underline;
+}
+  table {
+	width:100%;
+}
+  th, td {
+	padding: 15px;
+	text-align: left;
+}
